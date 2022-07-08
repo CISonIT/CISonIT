@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CISonIT
 - 👀 I’m interested in -> getting better in programming
-- 🌱 I’m currently learning -> Java
+- 🌱 I’m currently learning -> JavaScript, advanced CSS and mostly everything connected with web dev
 - 💞️ I’m looking to collaborate on -> "big-brain" project
 - 📫 How to reach me -> jakubcisonIT@gmail.com
 
